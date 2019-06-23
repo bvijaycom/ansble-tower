@@ -4,7 +4,3 @@
     - name: Hello Message
       debug:
         msg: "my name is vijay"
-    - name: Hello Message
-      yum:
-       name: unzip
-       state: latest
